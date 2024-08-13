@@ -18,9 +18,9 @@ This example was made using Firefox, other browsers may differ.\
 ***PS: You will need to retrieve these settings every time you log out of SoundCloud, because the tokens refresh.***
 
 # Screenshots
-I really wanted it to display "Listening to", instead of "Playing a game", because the latter looked lame as hell,\
+I really wanted it to display "Listening to", instead of "Playing a game", because the latter looked LAME AS HELL!\
 I thought it wasnt possible, but apparently Discord just recently added support for it!
-
+![Screenshot_1](https://i.imgur.com/s4Fui14.png)
 
 # Dependencies used
 [Titanium.Web.Proxy](https://github.com/justcoding121/titanium-web-proxy)\
