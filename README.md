@@ -15,7 +15,7 @@ Don't wanna manually configure it? Sure, just run the **built-in proxy capture s
 9. Everything should be set and ready to go!
 
 This example was made using Firefox, other browsers may differ.\
-** PSA: You will need to retrieve these settings every time you log out of SoundCloud, because the tokens refresh. **
+***PSA: You will need to retrieve these settings every time you log out of SoundCloud, because the tokens refresh.***
 
 # Dependencies used
 [Titanium.Web.Proxy](https://github.com/justcoding121/titanium-web-proxy)\
