@@ -22,6 +22,7 @@ This example was made using Firefox, other browsers may differ.\
 I really wanted it to display "Listening to", instead of "Playing a game", because the latter looked LAME AS HELL!\
 I thought it wasnt possible, but apparently Discord just recently added support for it!\
 SoundCloud BRING BACK THE API KEYS I NEED THEM PLEASEEEEEE
+This code is not good because i made it when i was sleep deprived as hell for real i wasn't sleeping for like 2 days and i was coding this instead my brain was mush, so if the code is not understandable then forgive me 
 
 # Dependencies used
 [Titanium.Web.Proxy](https://github.com/justcoding121/titanium-web-proxy)\
