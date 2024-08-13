@@ -3,7 +3,7 @@ SoundCloud doesn't allow requesting new API keys for developers, and it has been
 So what did I decide to do? I spent WAYYY too much time to make this work and made it unnecessarily advanced.
 
 Don't wanna manually configure it? Sure, just run the **built-in proxy capture server**, that will automatically get the details for you.
-- Wanna manually configure it anyways? Sure, here are the steps:
+**Wanna manually configure it anyways?** Sure, here are the steps:
 1. Go to [SoundCloud](https://soundcloud.com/)
 2. Open developer tools in your browser
 3. Go to the network tab
