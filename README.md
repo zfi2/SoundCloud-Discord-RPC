@@ -1,5 +1,5 @@
 # Discord RPC for SoundCloud
-![Screenshot_1](https://i.imgur.com/s4Fui14.png)\
+![Screenshot_1](https://i.imgur.com/s4Fui14.png)
 
 # Instructions and my yapping
 SoundCloud doesn't allow requesting new API keys for developers, and it has been this way for **years** for some unknown reasons. [See this](https://soundcloud.com/you/apps/new)\
