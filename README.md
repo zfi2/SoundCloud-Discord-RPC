@@ -1,5 +1,5 @@
 # Discord RPC for SoundCloud
-SoundCloud doesn't allow requesting new API keys for developers, and it has been this way for *years* for some unknown reasons. [ref](https://soundcloud.com/you/apps/new)\
+SoundCloud doesn't allow requesting new API keys for developers, and it has been this way for *years* for some unknown reasons. [ref](https://soundcloud.com/you/apps/new)/
 So what did I decide to do? I spent WAYYY too much time to make this work and made it unnecessarily advanced.
 
 Don't wanna manually configure it? Sure, just run the built-in proxy capture server that will automatically get the details for you.
