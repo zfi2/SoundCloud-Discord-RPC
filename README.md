@@ -21,7 +21,7 @@ This example was made using Firefox, other browsers may differ.
 [Titanium.Web.Proxy](https://github.com/justcoding121/titanium-web-proxy)\
 [Costura.Fody](https://github.com/Fody/Costura)\
 [Serilog](https://github.com/serilog/serilog)\
-[Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)\
+[Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
 
 # License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
