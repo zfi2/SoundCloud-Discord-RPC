@@ -14,7 +14,7 @@ Don't wanna manually configure it? Sure, just run the **built-in proxy capture s
 8. Paste the Authorization header without the OAuth string into the SoundCloud RPC
 9. Everything should be set and ready to go!
 
-This example was made using Firefox, other browsers may differ.
+This example was made using Firefox, other browsers may differ.\
 ** PSA: You will need to retrieve these settings every time you log out of SoundCloud, because the tokens refresh. **
 
 # Dependencies used
