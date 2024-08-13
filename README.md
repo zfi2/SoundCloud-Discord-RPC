@@ -1,5 +1,5 @@
 # Discord RPC for SoundCloud
-SoundCloud doesn't allow requesting new API keys for developers, and it has been this way for *years* for some unknown reasons. [ref](https://soundcloud.com/you/apps/new)/
+SoundCloud doesn't allow requesting new API keys for developers, and it has been this way for **years** for some unknown reasons. [See this](https://soundcloud.com/you/apps/new)\
 So what did I decide to do? I spent WAYYY too much time to make this work and made it unnecessarily advanced.
 
 Don't wanna manually configure it? Sure, just run the built-in proxy capture server that will automatically get the details for you.
@@ -15,7 +15,7 @@ Wanna manually configure it anyways? Sure, here are the steps:
 9. Everything should be set and ready to go!
 
 This example was made using Firefox, other browsers may differ.
-** PSA: You will need to retrieve these settings every time you log out and log back in, because the tokens refresh. **
+** PSA: You will need to retrieve these settings every time you log out of SoundCloud, because the tokens refresh. **
 
 # Dependencies used
 [Titanium.Web.Proxy](https://github.com/justcoding121/titanium-web-proxy)
