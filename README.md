@@ -1,4 +1,5 @@
 # Discord RPC for SoundCloud
+![Screenshot_1](https://i.imgur.com/s4Fui14.png)
 SoundCloud doesn't allow requesting new API keys for developers, and it has been this way for **years** for some unknown reasons. [See this](https://soundcloud.com/you/apps/new)\
 So what did I decide to do? I spent WAYYY too much time to make this work and made it unnecessarily advanced.
 
@@ -16,11 +17,8 @@ Don't wanna manually configure it? Sure, just run the **built-in proxy capture s
 
 This example was made using Firefox, other browsers may differ.\
 ***PS: You will need to retrieve these settings every time you log out of SoundCloud, because the tokens refresh.***
-
-# Screenshots
 I really wanted it to display "Listening to", instead of "Playing a game", because the latter looked LAME AS HELL!\
 I thought it wasnt possible, but apparently Discord just recently added support for it!
-![Screenshot_1](https://i.imgur.com/s4Fui14.png)
 
 # Dependencies used
 [Titanium.Web.Proxy](https://github.com/justcoding121/titanium-web-proxy)\
