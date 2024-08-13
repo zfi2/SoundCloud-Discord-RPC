@@ -18,9 +18,10 @@ Don't wanna manually configure it? Sure, just run the **built-in proxy capture s
 9. Everything should be set and ready to go!
 
 This example was made using Firefox, other browsers may differ.\
-***PS: You will need to retrieve these settings every time you log out of SoundCloud, because the tokens refresh.***
+***PS: You will need to retrieve these settings every time you log out of SoundCloud, because the tokens refresh.***\
 I really wanted it to display "Listening to", instead of "Playing a game", because the latter looked LAME AS HELL!\
-I thought it wasnt possible, but apparently Discord just recently added support for it!
+I thought it wasnt possible, but apparently Discord just recently added support for it!\
+SoundCloud BRING BACK THE API KEYS I NEED THEM PLEASEEEEEE
 
 # Dependencies used
 [Titanium.Web.Proxy](https://github.com/justcoding121/titanium-web-proxy)\
