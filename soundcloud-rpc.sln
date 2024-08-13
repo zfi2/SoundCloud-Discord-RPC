@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soundcloud-rpc", "soundcloud-rpc.csproj", "{1A9311E4-57FE-48B8-8920-B598F2FF6367}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Unsafe|Any CPU = Unsafe|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A9311E4-57FE-48B8-8920-B598F2FF6367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9311E4-57FE-48B8-8920-B598F2FF6367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9311E4-57FE-48B8-8920-B598F2FF6367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9311E4-57FE-48B8-8920-B598F2FF6367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A9311E4-57FE-48B8-8920-B598F2FF6367}.Unsafe|Any CPU.ActiveCfg = Unsafe|Any CPU
+		{1A9311E4-57FE-48B8-8920-B598F2FF6367}.Unsafe|Any CPU.Build.0 = Unsafe|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B791D34-BD41-466A-9125-2FC60F7442E9}
+	EndGlobalSection
+EndGlobal
