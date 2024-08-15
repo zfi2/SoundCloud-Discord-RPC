@@ -62,7 +62,7 @@ public class Utils
 
             string clientId = Utils.DecryptString(settings[clientIdJson].ToString());
             string authToken = Utils.DecryptString(settings[authTokenJson].ToString());
-            string discordAppId = Utils.DecryptString(settings[discordAppIdJson].ToString());
+            string discordAppId = settings[discordAppIdJson].ToString();
             string updateIntervalSeconds = settings[updateIntervalSecondsJson].ToString();
 
             return (clientId, authToken, discordAppId, updateIntervalSeconds);
@@ -77,7 +77,7 @@ public class Utils
     public static void CreateSettingsFile(bool useRetrieved, string retrievedAuthToken = null, string retrievedClientId = null)
     {
         /* Don't change this unless you know what you're doing! */
-        string discordAppId = Utils.EncryptString("1270073214063743036");
+        string discordAppId = "1270073214063743036";
 
         /* This isn't really ideal, but it's the only way for now, 
         * SoundCloud API key requests have been disabled for like 2 years now 
