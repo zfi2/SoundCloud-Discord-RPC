@@ -81,10 +81,14 @@ public class Utils
 
         /* This isn't really ideal, but it's the only way for now, 
         * SoundCloud API key requests have been disabled for like 2 years now 
-        * Increase this in the settings file if you're getting rate limited
         * https://soundcloud.com/you/apps/new
+        * ----------------------------------------------------------------------
+        * https://developers.soundcloud.com/docs/api/rate-limits
+        * "Effective July 1, all requests that result in access to a playable stream are subject to a limit of 15,000 requests per any 24-hour time window."
+        * 24 hours x 60 minutes/hour x 60 seconds/minute = 86,400 seconds
+        * 86,400 seconds / 15,000 requests = 5.76 seconds in-between requests, ideally, we round that up to 6
         */
-        int updateIntervalSeconds = 5;
+        int updateIntervalSeconds = 6;
 
         if (useRetrieved)
         {
