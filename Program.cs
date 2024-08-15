@@ -66,7 +66,6 @@ namespace SoundCloudDiscordRPCConsole
                     Console.Write("\n----------------------------\n");
                     Log.Warning("Decrypted soundcloud_client_id: {ClientId}", clientId);
                     Log.Warning("Decrypted soundcloud_auth_token: {AuthToken}", authToken);
-                    Log.Warning("Decrypted discord_application_id: {DiscordAppId}", discordAppId);
                     Console.Write("----------------------------\n\n");
                 }
 #endif

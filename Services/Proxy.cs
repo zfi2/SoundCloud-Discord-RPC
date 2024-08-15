@@ -51,11 +51,14 @@ namespace ProxyService
                 requestFoundEvent.WaitOne();
 
                 Log.Information("SoundCloud API details retrieved and saved successfully!");
+
+#if UNSAFE
                 if (Utils.showDebugInfo)
                 {
                     Log.Warning($"client_id: {capturedClientId}");
                     Log.Warning($"auth_token: {capturedAuthorization}");
                 }
+#endif
 
                 // Clean up
                 proxyServer.Stop();
