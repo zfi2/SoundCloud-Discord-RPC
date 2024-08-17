@@ -6,7 +6,7 @@ using System.Text;
 using Newtonsoft.Json.Linq;
 
 // DiscordIPC.cs
-namespace DiscordRichPresence
+namespace DiscordIPC
 {
     public class Presence : IDisposable
     {

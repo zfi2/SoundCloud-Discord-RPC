@@ -8,7 +8,7 @@ using System.Reflection;
 using System.Windows.Forms;
 //
 using Serilog;
-using DiscordRichPresence;
+using DiscordIPC;
 using SoundCloudAPI;
 using ProxyService;
 using DiscordRPC;

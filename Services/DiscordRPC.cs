@@ -1,5 +1,5 @@
 ﻿using System.Threading.Tasks;
-using DiscordRichPresence;
+using DiscordIPC;
 using Serilog;
 using Newtonsoft.Json.Linq;
 using Newtonsoft.Json;
