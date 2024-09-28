@@ -77,7 +77,7 @@ public class Utils
     public static void CreateSettingsFile(bool useRetrieved, string retrievedAuthToken = null, string retrievedClientId = null)
     {
         /* Don't change this unless you know what you're doing! */
-        string discordAppId = "1270073214063743036";
+        string discordAppId = "1289606421368799345";
 
         /* This isn't really ideal, but it's the only way for now, 
         * SoundCloud API key requests have been disabled for like 2 years now 
